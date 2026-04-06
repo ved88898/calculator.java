@@ -37,7 +37,7 @@ public class SimpleCalculator {
                     result = num1 / num2;
                     System.out.println("Result: " + result);
                 } else {
-                    System.out.println("Cannot divide by zero");
+                    System.out.println("Cannot divide by zero this is not at all possible in maths");
                 }
                 break;
 
