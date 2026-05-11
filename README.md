@@ -1,1 +1,1 @@
-this code of java explains how a calculator works!
+this code of java explains how a  simple calculator works!
